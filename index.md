@@ -9,7 +9,7 @@ homepage:
   text: zhxliao.pythonanywhere.com
 ---
 
-### **廖志祥**
+## **廖志祥**
 
 <!--
 include contact information from the front matter
@@ -29,9 +29,9 @@ Supported arguments:
 上海
 ```
 
-- 数据团队，数据支持工程师
-- 负责 ETL 系统的开发与维护
-- 多个项目负责人
+- 数据团队，数据支持工程师，2019年度绩效评级A
+- ETL系统开发与维护负责人
+- 二代征信、三代报表平台、新ETL系统、绩效系统等多个开发项目负责人
 
 ### **复旦大学** `2012.9 - 2016.6`
 
@@ -52,7 +52,7 @@ Supported arguments:
 - 信息管理与信息系统，管理学学士
 - 一等奖学金（前5%）两次，二等奖学金一次（前15%）
 
-## 项目经历
+## 项目经验
 
 ### **Microsoft Research** `2020.5 -`
 
