@@ -9,7 +9,7 @@ homepage:
   text: zhxliao.pythonanywhere.com
 ---
 
-# **廖志祥**
+### **廖志祥**
 
 <!--
 include contact information from the front matter
@@ -21,7 +21,17 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## 教育经历
+## 主要经历
+
+### **银联数据服务有限公司** `2015.9 - 至今`
+
+```
+上海
+```
+
+- 数据团队，数据支持工程师
+- 负责 ETL 系统的开发与维护
+- 多个项目负责人
 
 ### **复旦大学** `2012.9 - 2016.6`
 
@@ -29,8 +39,9 @@ Supported arguments:
 上海
 ```
 
-- 信息管理与信息系统专业，管理科学硕士
-- 这里填一下主要的学习内容
+- 信息管理与信息系统专业，管理科学硕士，复旦大学优秀学生称号
+- 自学 MIT Open Courseware 在线公开课，Electronic Engineering 专业
+- 复旦大学北苑园委会，副主席
 
 ### **中山大学** `2008.9 - 2012.6`
 
@@ -39,9 +50,9 @@ Supported arguments:
 ```
 
 - 信息管理与信息系统，管理学学士
-- 这里填一下主要的学习内容
+- 一等奖学金（前5%）两次，二等奖学金一次（前15%）
 
-## 主要经历
+## 项目经历
 
 ### **Microsoft Research** `2020.5 -`
 
@@ -83,7 +94,7 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 
 ---
 
-## Teaching
+## Teaching / 少数派作者可以说一下
 
 Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
 Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
