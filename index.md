@@ -9,7 +9,7 @@ homepage:
   text: zhxliao.pythonanywhere.com
 ---
 
-## **廖志祥**
+# **廖志祥**
 
 <!--
 include contact information from the front matter
@@ -54,9 +54,13 @@ Supported arguments:
 
 ## 项目经验
 
-### **Microsoft Research** `2020.5 -`
+### **新ETL系统** `2020.5 -`
 
-_Research Intern_<br>
+_项目开发负责人_<br>
+
+**ETL系统** 用于将数据仓库的数据导出，并且按照一定的格式排布。传输给客户后，用于客户自行建立数仓。公司沿用10年以上的 ETL 系统，开发成本和部署成本高，故开发基于 Python 编写的新 ETL 系统。经测试，可以节省开发、部署时间，并且抽取数据文件的效率也大大提高，为原本的 50% 的时间。
+
+**Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
 ### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
 
