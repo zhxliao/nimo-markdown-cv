@@ -54,28 +54,27 @@ Supported arguments:
 
 ## 项目经验
 
-### **新ETL系统** `2020.5 -`
+### **新 ETL 系统** `2020.5 -`
 
 _项目开发负责人_<br>
 
-**ETL系统** 用于将数据仓库的数据导出，并且按照一定的格式排布。传输给客户后，用于客户自行建立数仓。公司沿用10年以上的 ETL 系统，开发成本和部署成本高，故开发基于 Python 编写的新 ETL 系统。经测试，可以节省开发、部署时间，并且抽取数据文件的效率也大大提高，为原本的 50% 的时间。
+**ETL 系统** 用于将数据仓库的数据导出，并且按照一定的格式排布。传输给客户后，用于客户自行建立数仓。公司沿用10年以上的 ETL 系统，开发成本和部署成本高，随着业务规模的不断扩大，有必要使用更为高效的的系统。
 
-**Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+基于此，立项开发新的使用系统，该系统使用 Python 编写。经测试，新系统可以节省开发、部署时间，并且抽取数据文件的效率也大大提高，约为原本的 50% 的时间。
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### **二代征信系统** `2019.10 -`
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+_项目开发负责人_<br>
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+**二代征信系统** 主要用于筛选发卡数据，并根据客户银行需求出具同时符合人行要求又符合业务规范的报文。
 
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+本人负责报文出具系统的整体规划和开发工作，由于客户银行众多，在通用版本上，已经开发了至少 5 个独立运行版本。
 
-### **AsiaInfo** `2015.6 - 2015.8`
+### **绩效考核系统** `2020.3 - 2020.6`
 
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+_项目开发负责人_<br>
+
+**绩效考核系统** 用于记录和跟踪服务单进展，分别从「服务单绩效」、「即将超期监控」、「团队完成情况」等方面进行展示。使用 Web2Py 框架，快速组建团队并开发了完整的网站功能。
 
 ## Mentoring
 
@@ -98,7 +97,12 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 
 ---
 
-## Teaching / 少数派作者可以说一下
+## Teaching / 
+
+- 少数派作者可以说一下
+- Python 的推广工作
+- 印象笔记（协作）的文档管理 with 石墨文档
+- 其实即使是简历，也需要有主题的，我的主题是自己的成长
 
 Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
 Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
