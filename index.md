@@ -4,9 +4,6 @@ title: 廖志祥
 email:
   url: mailto:zhxliao@yeah.net
   text: zhxliao@yeah.net
-homepage:
-  url: https://zhxliao.pythonanywhere.com/
-  text: zhxliao.pythonanywhere.com
 ---
 
 # **廖志祥**
@@ -23,15 +20,15 @@ Supported arguments:
 
 ## 主要经历
 
-### **银联数据服务有限公司** `2015.9 - 至今`
+### **银联数据服务有限公司** `2016.7 - 至今`
 
 ```
 上海
 ```
 
-- 数据团队，数据支持工程师，2019、2020年度绩效评级A
-- ETL系统开发与维护负责人
-- 二代征信、三代报表平台、新ETL系统、绩效系统等多个开发项目负责人
+- 数据支持中心，新产品研发及系统运维组组长
+- 二代征信、新ETL系统、绩效系统等多个开发项目负责人，ETL系统开发与维护负责人
+- 2018年度绩效评级B（前30%）2019、2020年度绩效评级A（前5%）
 
 ### **复旦大学** `2012.9 - 2016.6`
 
@@ -49,77 +46,44 @@ Supported arguments:
 广州
 ```
 
-- 信息管理与信息系统，管理学学士
+- 信息管理与信息系统专业，管理学学士
 - 一等奖学金（前5%）两次，二等奖学金一次（前15%）
 
 ## 项目经验
 
-### **新 ETL 系统** `2020.5 -`
+### **新 ETL 系统** `2020.5 - 至今`
 
 _项目负责人_<br>
 
 - ETL 系统按约定格式导出数据文件，客户主要用于数仓，是重要的基础数据。
 - 系统开发和部署成本高，随着业务规模的不断扩大，遇到性能瓶颈。
-- 负责新系统设计、规划和开发。新系统可实现快速开发，自动部署，用时约为原系统的 50% 
+- 负责新系统设计、规划和开发。新系统可实现快速开发，自动部署，用时约为原系统的 70% 
 - 支持所有110+以上客户
 
-### **二代征信系统** `2019.10 -`
+### **二代征信系统** `2019.10 - 至今`
 
-_项目负责人_<br>
+_项目开发负责人_<br>
 
 - 二代征信系统，出具符合人行规范的征信报文
 - 负责系统设计、规划和主要开发工作
 - 支持有征信需求的客户
 
-### **绩效考核系统** `2020.3 - 2020.6`
+### **绩效考核系统** `2020.3 - 至今`
 
 _项目负责人_<br>
 
-- 绩效考核系统是网站系统，主要辅助对部门员工的考核评定，从数据层面帮助考核，辅助管理工作
-- 跟踪服务单，监控完成情况，从「服务单绩效」、「即将超期监控」、「团队完成情况」等方面进行展示
-- 现将项目交由其他同事。
+- 绩效考核系统是网站系统，主要辅助对部门员工的考核评定
+- 跟踪近 1 年的服务单，并监控完成情况，从「服务单绩效」、「即将超期监控」、「团队完成情况」等方面进行展示
+- 从数据层面帮助考核，辅助管理工作
 
-## 优化流程
+## 其他
 
-- Python 实践与推广：通过不断实践，逐步将 Python 带入工作场景，带动数据团队学习和使用 Python。逐步建立规范，并提高工作效率
+将自身平时使用的好工具，逐步推广到团队中，提升团队效率。
+
+- Python 推广：通过不断实践，逐步将 Python 带入工作场景，带动数据团队学习和使用 Python
 - 文档协作：使用印象笔记建立团队知识库，在线版文档管理使用石墨文档
-- 
-
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-
-## Honors & Awards
-
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
-
----
-
-## Teaching / 
-
-- 少数派作者可以说一下
-- Python 的推广工作
-- 印象笔记（协作）的文档管理 with 石墨文档
-- 其实即使是简历，也需要有主题的，我的主题是自己的成长
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-
-## Service
-
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
+- 小课堂：在团队中不定期开展工作中可以用到的技能或知识，内容涉及新工具介绍与代码知识等
+- 少数派作者（ https://sspai.com/u/nl4f4wmf/posts ），多分享自身的学习和见闻。
 
 <!-- ### Footer
 
