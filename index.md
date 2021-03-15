@@ -4,9 +4,6 @@ title: 廖志祥
 email:
   url: mailto:zhxliao@yeah.net
   text: zhxliao@yeah.net
-homepage:
-  url: https://zhxliao.pythonanywhere.com/
-  text: zhxliao.pythonanywhere.com
 ---
 
 # **廖志祥**
@@ -56,7 +53,7 @@ Supported arguments:
 
 ### **新 ETL 系统** `2020.5 - 至今`
 
-_项目开发负责人_<br>
+_项目负责人_<br>
 
 - ETL 系统按约定格式导出数据文件，客户主要用于数仓，是重要的基础数据。
 - 系统开发和部署成本高，随着业务规模的不断扩大，遇到性能瓶颈。
@@ -73,7 +70,7 @@ _项目开发负责人_<br>
 
 ### **绩效考核系统** `2020.3 - 至今`
 
-_项目开发负责人_<br>
+_项目负责人_<br>
 
 - 绩效考核系统是网站系统，主要辅助对部门员工的考核评定
 - 跟踪近 1 年的服务单，并监控完成情况，从「服务单绩效」、「即将超期监控」、「团队完成情况」等方面进行展示
